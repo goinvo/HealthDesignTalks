@@ -13,3 +13,4 @@ Zoom:
 [https://mit.zoom.us/j/99887840186](https://mit.zoom.us/j/99887840186)  
 (password required, email us at <healthdesigntalks@goinvo.com>).
 
+By Eric Benoit, Elise Mortensen, and Juhan Sonin 
