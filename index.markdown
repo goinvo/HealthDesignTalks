@@ -11,7 +11,7 @@ Rules:
 - 5 minutes or less
 - Healthcare focused
 
-Next series on Friday 16.Sep.22.
+Next series on Friday 21.Oct.22.
 
 Sign up for a slot on the [wiki](https://github.com/goinvo/HealthDesignTalks/wiki/Schedule).  
 Add yourself to the calendar invite at <healthdesigntalks@goinvo.com>.
